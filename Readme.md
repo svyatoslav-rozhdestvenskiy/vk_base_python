@@ -20,5 +20,5 @@ ____
 <br>
 <br>
 <p align="center">
- <img width="600" src="https://i.gifer.com/embedded/download/rkb.gif"/>
+ <img width="600" src="https://blog.hyperiondev.com/wp-content/uploads/2017/12/py_machine.jpg"/>
 </p>
